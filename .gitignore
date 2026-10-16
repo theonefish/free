@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 训练数据与检查点（体积大，不入库）
+data/
+checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# 日志
+*.log
+*.err
